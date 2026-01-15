@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 🧑‍💻 About Me<br><br>Frontend Developer focused on building responsive and user-friendly web applications using **React** and **JavaScript**.  <br>Currently learning **Node.js** to expand into full-stack development and improve backend knowledge.<br>
 
 
